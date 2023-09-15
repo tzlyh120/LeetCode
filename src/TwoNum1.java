@@ -4,6 +4,7 @@
  */
 public class TwoNum1 {
     public static void main(String[] args) {
+        System.out.println("mtmb are best girls");
 
     }
 }
