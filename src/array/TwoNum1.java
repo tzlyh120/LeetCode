@@ -1,3 +1,8 @@
+package array;
+
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * @author Yihan
  * @date 9/15/2023 - 2:42 PM
